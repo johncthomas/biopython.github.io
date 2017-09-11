@@ -44,7 +44,7 @@ Biopython.
 
 [List Website](http://lists.open-bio.org/mailman/listinfo/biopython/) |
 [Web Archive](http://lists.open-bio.org/pipermail/biopython/) |
-[Example Google Search](https://www.google.co.uk/search?q=example+url%3Ahttp%3A%2F%2Flists.open-bio.org%2Fpipermail%2Fbiopython%2F)
+[Example Google Search](https://www.google.co.uk/search?q=example+site%3Ahttp%3A%2F%2Flists.open-bio.org%2Fpipermail%2Fbiopython%2F)
 
 ### Development List
 
@@ -54,7 +54,7 @@ Unmoderated list for Biopython developers and interested people.
 
 [List Website](http://lists.open-bio.org/mailman/listinfo/biopython-dev/) |
 [Web Archive](http://lists.open-bio.org/pipermail/biopython-dev/) |
-[Example Google Search](https://www.google.co.uk/search?q=example+url%3Ahttp%3A%2F%2Flists.open-bio.org%2Fpipermail%2Fbiopython%2F)
+[Example Google Search](https://www.google.co.uk/search?q=example+site%3Ahttp%3A%2F%2Flists.open-bio.org%2Fpipermail%2Fbiopython%2F)
 
 ### Announcement List
 
